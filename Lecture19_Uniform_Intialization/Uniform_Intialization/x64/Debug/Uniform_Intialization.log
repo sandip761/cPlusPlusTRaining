@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Sandi\source\repos\Lecture19_Uniform_Intialization\Uniform_Intialization\Source.cpp(29,7): warning C4101: 'd1': unreferenced local variable
+C:\Users\Sandi\source\repos\Lecture19_Uniform_Intialization\Uniform_Intialization\Source.cpp(24,6): warning C4101: 'a1': unreferenced local variable
+  Uniform_Intialization.vcxproj -> C:\Users\Sandi\source\repos\Lecture19_Uniform_Intialization\x64\Debug\Uniform_Intialization.exe

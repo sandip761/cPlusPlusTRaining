@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Sandi\source\repos\Type\Type\Source.cpp(15,6): warning C4101: 'arr': unreferenced local variable
+  Type.vcxproj -> C:\Users\Sandi\source\repos\Type\x64\Debug\Type.exe
